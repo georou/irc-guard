@@ -2,6 +2,8 @@
 
 Designed to guard against typing unwanted text into IRC. Could be a password it saves!
 
+Compatible with HexChat.
+
 **Requires enter to be double pressed to submit a message.**
 
 Perl is not my strongest programming language, if something doesn't look right, let me know. (Until I learn more about it, in which case this will be gone!)
